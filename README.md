@@ -1,6 +1,13 @@
 # ListLength
 
-**TODO: Add description**
+Dada uma lista, a função **ListLength** retorna seu tamanho.
+
+# Exemplo
+```elixir
+list = [3, 5, 7, 9, 11]
+iex> ListLength.length(list)
+5
+```
 
 ## Installation
 
