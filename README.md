@@ -1,6 +1,6 @@
 # ListLength
 
-Dada uma lista, a função **ListLength** retorna seu tamanho.
+Dada uma lista, a função **ListLength.length/1** retorna seu tamanho.
 
 # Exemplo
 ```elixir
