@@ -1,7 +1,7 @@
 defmodule ListLengthTest do
   use ExUnit.Case
 
-  describe "list length/2" do
+  describe "list length/1" do
     test "returns list length" do
       list = [2, 5, 9, 0, 11, 22, 3]
 
